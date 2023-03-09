@@ -1,0 +1,35 @@
+/*
+    Student Name: Jonathan Hall
+	Current Date: 5/3/2022
+*/
+
+@media screen and (max-width: 820px) {
+    header h4 {
+        padding-bottom: 4%;
+    }
+}
+
+@media screen and (min-width: 820px) and (max-width: 980px) {
+    header h4 {
+        padding-bottom: 4%;
+    }
+}
+
+@media screen and (min-width: 980px) and (max-width: 1130px) {
+    header h4 {
+        padding-bottom: 3%;
+    }
+}
+
+.content {
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    margin-bottom: 13%;
+    line-height: 1.4em;
+}
+
+.content p {
+    padding: 1%;
+}
